@@ -1,0 +1,15 @@
+C:\Users\vivianw\Desktop\forms\WizardApp\obj\Debug\net6.0-windows\WizardApp.csproj.AssemblyReference.cache
+C:\Users\vivianw\Desktop\forms\WizardApp\obj\Debug\net6.0-windows\WizardApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivianw\Desktop\forms\WizardApp\obj\Debug\net6.0-windows\WizardApp.AssemblyInfoInputs.cache
+C:\Users\vivianw\Desktop\forms\WizardApp\obj\Debug\net6.0-windows\WizardApp.AssemblyInfo.cs
+C:\Users\vivianw\Desktop\forms\WizardApp\obj\Debug\net6.0-windows\WizardApp.csproj.CoreCompileInputs.cache
+C:\Users\vivianw\Desktop\forms\WizardApp\bin\Debug\net6.0-windows\WizardApp.exe
+C:\Users\vivianw\Desktop\forms\WizardApp\bin\Debug\net6.0-windows\WizardApp.deps.json
+C:\Users\vivianw\Desktop\forms\WizardApp\bin\Debug\net6.0-windows\WizardApp.runtimeconfig.json
+C:\Users\vivianw\Desktop\forms\WizardApp\bin\Debug\net6.0-windows\WizardApp.dll
+C:\Users\vivianw\Desktop\forms\WizardApp\bin\Debug\net6.0-windows\WizardApp.pdb
+C:\Users\vivianw\Desktop\forms\WizardApp\obj\Debug\net6.0-windows\WizardApp.dll
+C:\Users\vivianw\Desktop\forms\WizardApp\obj\Debug\net6.0-windows\refint\WizardApp.dll
+C:\Users\vivianw\Desktop\forms\WizardApp\obj\Debug\net6.0-windows\WizardApp.pdb
+C:\Users\vivianw\Desktop\forms\WizardApp\obj\Debug\net6.0-windows\WizardApp.genruntimeconfig.cache
+C:\Users\vivianw\Desktop\forms\WizardApp\obj\Debug\net6.0-windows\ref\WizardApp.dll
